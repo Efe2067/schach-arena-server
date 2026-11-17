@@ -1,0 +1,17 @@
+{
+  "name": "schach-arena-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WebSocket game server for Schach Arena",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "chess.js": "^1.4.0",
+    "ws": "^8.23.0"
+  }
+}

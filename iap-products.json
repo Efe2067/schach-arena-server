@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "currency": "EUR",
+  "note": "Gemeinsame Quelle für App und Server. Die IDs müssen exakt mit den Produkten in Google Play Console / App Store Connect und RevenueCat übereinstimmen. placeholderPrice wird nur angezeigt, solange keine Store-Verbindung besteht.",
+  "products": [
+    {
+      "id": "coins_300",
+      "coins": 300,
+      "title": "300 Münzen",
+      "description": "Kleines Paket für den nächsten Trail oder ein Brett-Design.",
+      "placeholderPrice": "1,99 €",
+      "badge": null
+    },
+    {
+      "id": "coins_900",
+      "coins": 900,
+      "title": "900 Münzen",
+      "description": "Drei Trails oder ein neues Figuren-Set.",
+      "placeholderPrice": "4,99 €",
+      "badge": null
+    },
+    {
+      "id": "coins_2000",
+      "coins": 2000,
+      "title": "2.000 Münzen",
+      "description": "Das größte Paket – ideal für mehrere Designs und Sets.",
+      "placeholderPrice": "9,99 €",
+      "badge": "BESTER PREIS"
+    }
+  ]
+}
